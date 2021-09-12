@@ -5,7 +5,7 @@ as well as different levels of difficulty.
 
 The core methods that needed to be implemented is:
 
-# MethodsAndLists.Core
+## MethodsAndLists.Core
 * 01 - Basic
   * NumberListToNumberList.cs
   * NumberListToString.cs
@@ -25,3 +25,6 @@ The core methods that needed to be implemented is:
   * NumberToString.cs
   * StringListToString.cs
 
+## Link to original zip file
+http://github.com - automatic!
+[GitHub](http://github.com)
