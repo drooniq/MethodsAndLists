@@ -26,4 +26,4 @@ The core methods that needed to be implemented is:
   * StringListToString.cs
 
 ## MethodsAndLists.Test
-Here lies all files that is run when testing each moment in Core.
+Here lies all files that is run when testing each section in Core.
