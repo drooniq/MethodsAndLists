@@ -26,5 +26,4 @@ The core methods that needed to be implemented is:
   * StringListToString.cs
 
 ## Link to original zip file
-http://github.com - automatic!
-[GitHub](http://github.com)
+[MethodsAndLists](http://Github.com)
