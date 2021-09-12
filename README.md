@@ -25,5 +25,5 @@ The core methods that needed to be implemented is:
   * NumberToString.cs
   * StringListToString.cs
 
-## Link to original zip file
-[MethodsAndLists](http://Github.com)
+## MethodsAndLists.Test
+Here lies all files that is run when testing each moment in Core.
